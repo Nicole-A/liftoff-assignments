@@ -8,12 +8,18 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Public link to prototype:
+
+https://xd.adobe.com/view/ab6c32b5-988a-4fbd-68dc-8d871261b050-dd5d/
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+Public link to Trello board:
+
+https://trello.com/invite/b/uSgYV9qQ/59343ad81e7d259e3c50fbbd58de288e/mood-tracking-app
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+Github Link:
+
+https://github.com/Nicole-A/MoodMeApp.git
